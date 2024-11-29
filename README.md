@@ -1,5 +1,5 @@
 
-#📊 LEGO Data Analysis: Price Trends, Set Complexity, and Market Evolution 
+📊 ###LEGO Data Analysis: Price Trends, Set Complexity, and Market Evolution
 **Welcome to my first data analysis project and visualization in Looker!** 🚀 
 This repository presents my exploration of historical LEGO data, including an analysis of price trends, set complexity, and their correlation over the years. Through this project, I aim to demonstrate my skills in data visualization and storytelling, while uncovering fascinating insights about one of the world’s most iconic brands.
 
