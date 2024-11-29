@@ -25,8 +25,8 @@ Collectible value, especially in limited editions,
 Unique designs in premium sets (e.g., "Landmarks" or "Stadiums").  
 
 🛠 **Tools and Technologies**  
---- Looker: For data visualization and insights.  
---- Excel: For data organization.  
+-- **Looker:** For data visualization and insights.  
+-- **Excel:** For data organization.  
 ![image](https://github.com/user-attachments/assets/0c28baa9-2625-4051-b3b2-74ddc4308f03)
 ![image](https://github.com/user-attachments/assets/ee7c6a8d-6118-4d12-b4d4-f058812fc3cd)
 
