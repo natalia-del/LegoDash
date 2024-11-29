@@ -16,7 +16,7 @@ A focus on creating more intricate, immersive designs.
 An evolution in consumer expectations, favoring more challenging and rewarding building experiences.  
 LEGO’s innovation-driven approach to meeting customer needs.  
 
-3️⃣ Correlation Between Price and Number of Pieces  
+3️⃣ *Correlation Between Price and Number of Pieces* 
 Analyzing the relationship between price and the number of pieces:    
 Up to $250: A strong correlation exists – higher prices generally mean more pieces.     
 Beyond $250: The correlation weakens. Why? Prices in this range are influenced by additional factors, such as:    
